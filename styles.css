@@ -1,0 +1,18 @@
+ategories{
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 10px;
+    overflow: scroll;
+}
+
+.category{
+    width: auto;
+    cursor: pointer;
+    padding: 5px;
+    margin: 5px;
+}
+
+.movies{
+    padding: 15px;
+}
